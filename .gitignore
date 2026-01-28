@@ -1,0 +1,7 @@
+.vs/*
+GameManager/*
+packages/*
+x64/*
+*.exe
+*.dll
+*.txt
